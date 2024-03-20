@@ -24,6 +24,6 @@
 <br>
 
 <div align=center><h1>📚 Algorithm PS</h1></div>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=peter020126">
+<a href="https://solved.ac/peter020126/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=peter020126"></a>
 <br>
 </div>
