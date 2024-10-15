@@ -8,9 +8,9 @@
 
 <div align=center><h1>🔗Links</h1></div>
 
-<a href="siku-kr.github.io">1. My Portfolio Page - Github Pages</a>
+<a href="https://SIKU-KR.github.io">1. My Portfolio Page - Github Pages</a>
 
-<a href="cseant.tistory.com">2. My Blog - Tistory</a>
+<a href="https://cseant.tistory.com">2. My Blog - Tistory</a>
 
 <div align=center><h1>📊Stats</h1></div>
 
