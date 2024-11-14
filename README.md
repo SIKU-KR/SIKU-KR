@@ -10,12 +10,13 @@
 ### [Tech. Blog- Link](https://cseant.tistory.com)
 
 ## 🔩 Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,py,kotlin,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,kotlin,aws,mysql&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIKU-KR&layout=donut)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIKU-KR&layout=compact)
 ![Solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=peter020126)  
 
 </div>
