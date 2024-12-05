@@ -6,8 +6,8 @@
 
 ## 🌏 Links 
 
-### [Portfolio Page - Link](https://SIKU-KR.github.io)
-### [Tech. Blog- Link](https://cseant.tistory.com)
+### [포트폴리오 페이지 - 링크](https://SIKU-KR.github.io)
+### [기술 블로그 - 링크](https://cseant.tistory.com)
 
 ## 🔩 Language & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,kotlin,aws,mysql&theme=light)](https://skillicons.dev)  
