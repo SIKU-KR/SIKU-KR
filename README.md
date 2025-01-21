@@ -7,5 +7,5 @@
 
 ### 기술 스택
 - **Languages** : Java, Kotlin, SQL, Python
-- **Frameworks** : Spring Boot, Spring Security
+- **Frameworks** : Spring Boot, Hibernate
 - **Others** : Docker, Linux, AWS(EC2, Lambda, DynamoDB), GitHub
