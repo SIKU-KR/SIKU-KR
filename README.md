@@ -9,5 +9,3 @@
 - **Languages** : Java, Kotlin, SQL, Python
 - **Frameworks** : Spring Boot, Hibernate
 - **Others** : Docker, Linux, AWS(EC2, Lambda, DynamoDB), GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIKU-KR&layout=compact)
