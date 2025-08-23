@@ -5,10 +5,8 @@
 - I enjoy meeting new people and organize **Google Developer Groups on Campus Konkuk**.  
 
 
-blog: [bumsiku.kr](https://bumsiku.kr)
-
-email: bumshik0126@gmail.com
-
+blog: [bumsiku.kr](https://bumsiku.kr)   
+email: bumshik0126@gmail.com   
 linkedIn: [linkedin.com/in/siku-kr](https://www.linkedin.com/in/siku-kr/)
 
 
